@@ -24,12 +24,20 @@
 
         </dependency>
         <!-- https://mvnrepository.com/artifact/io.github.bonigarcia/webdrivermanager -->
-        <dependency>
-            <groupId>io.github.bonigarcia</groupId>
-            <artifactId>webdrivermanager</artifactId>
-            <version>3.7.1</version>
-        </dependency>
+        <!-- web driver manager dependency-->
+                <dependency>
+                    <groupId>io.github.bonigarcia</groupId>
+                    <artifactId>webdrivermanager</artifactId>
+                    <version>3.7.1</version>
+                </dependency>
 
-    </dependencies>
+        <!--  java faker dependency-->
 
-</project>
+                <dependency>
+                    <groupId>com.github.javafaker</groupId>
+                    <artifactId>javafaker</artifactId>
+                    <version>1.0.1</version>
+                </dependency>
+            </dependencies>
+
+        </project>

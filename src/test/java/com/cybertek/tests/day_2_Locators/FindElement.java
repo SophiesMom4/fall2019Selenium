@@ -35,7 +35,7 @@ public class FindElement {
        // WebElement passwordBox = driver.findElement(By.id("okta-signin-password"));
         //passwordBox.sendKeys("Delimavi1");
 
-       driver.findElement(By.id("okta-signin-password")).sendKeys("dddddd"); // same as lines 35,36 shorter
+        driver.findElement(By.id("okta-signin-password")).sendKeys("dddddd"); // same as lines 35,36 shorter
 
 
 
