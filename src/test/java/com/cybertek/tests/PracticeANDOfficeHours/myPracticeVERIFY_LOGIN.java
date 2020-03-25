@@ -1,4 +1,4 @@
-package com.cybertek.tests.Practice_WithMira;
+package com.cybertek.tests.PracticeANDOfficeHours;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.By;

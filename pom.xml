@@ -38,6 +38,15 @@
                     <artifactId>javafaker</artifactId>
                     <version>1.0.1</version>
                 </dependency>
-            </dependencies>
+
+        <!--  NG Testing  -->
+        <dependency>
+            <groupId>org.testng</groupId>
+            <artifactId>testng</artifactId>
+            <version>7.1.0</version>
+            <scope>test</scope>
+        </dependency>
+
+    </dependencies>
 
         </project>
