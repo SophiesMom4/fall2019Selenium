@@ -28,7 +28,7 @@
                 <dependency>
                     <groupId>io.github.bonigarcia</groupId>
                     <artifactId>webdrivermanager</artifactId>
-                    <version>3.7.1</version>
+                    <version>3.8.1</version>
                 </dependency>
 
         <!--  java faker dependency-->
@@ -39,7 +39,7 @@
                     <version>1.0.1</version>
                 </dependency>
 
-        <!--  NG Testing  -->
+        <!--   Test NG   -->
         <dependency>
             <groupId>org.testng</groupId>
             <artifactId>testng</artifactId>

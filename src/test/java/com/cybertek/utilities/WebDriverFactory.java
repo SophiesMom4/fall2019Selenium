@@ -12,8 +12,6 @@ public class WebDriverFactory {
     // it takes a String as a parameter --> browser type like Chrome, Firefox
     // returns ChromeDriver and FirefoxDriver
 
-    String chrome = "Chrome";
-    String firefox = "Firefox";
 
     public static WebDriver getDriver(String browserType) {
         //local variables

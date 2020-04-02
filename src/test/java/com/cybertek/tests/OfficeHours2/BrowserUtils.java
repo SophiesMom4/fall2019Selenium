@@ -1,4 +1,4 @@
-package com.cybertek.tests.Office_Hours1;
+package com.cybertek.tests.OfficeHours2;
 
 import org.openqa.selenium.WebElement;
 

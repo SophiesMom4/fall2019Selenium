@@ -1,5 +1,6 @@
-package com.cybertek.tests.Office_Hours1;
+package com.cybertek.tests.OfficeHours2;
 
+import com.cybertek.tests.OfficeHours2.BrowserUtils;
 import com.cybertek.utilities.WebDriverFactory;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -18,8 +19,6 @@ import java.util.List;
 public class SelectClassPracticeTests {
 
     WebDriver driver;
-
-
 
     @BeforeMethod
     public void setUp() {
@@ -118,9 +117,6 @@ public class SelectClassPracticeTests {
             Collections.sort(intsCopy);
             // finally compare
             Assert.assertEquals(ints, intsCopy);
-
-
-
     }
 
 }
